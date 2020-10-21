@@ -4,7 +4,8 @@ let haruhi = 'Hello World!';
 
 const kyon = 'lsllslslsls';
 
+let inoki = ['1','2','3']
 
-console.log(kyon);
+console.log(inoki[0]);
 
 
