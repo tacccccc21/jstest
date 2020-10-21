@@ -2,4 +2,9 @@ let haruhi = 'Hello World!';
 
 // haruhi = 'aaaaaaaaaaa';
 
-console.log(haruhi);
+const kyon = 'lsllslslsls';
+
+
+console.log(kyon);
+
+
