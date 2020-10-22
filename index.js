@@ -14,3 +14,13 @@ console.log(inoki[0]);
   //   index++;
   // }
 
+if(inoki.length > 5){
+  console.log('ボンバイエ');
+}else{
+  console.log('aasasaasas');
+}
+
+//　関数
+const test = () => {
+
+};
