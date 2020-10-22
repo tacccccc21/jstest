@@ -42,4 +42,4 @@ const unko2 = {
   }
 };
 
-console.log(window.alert('yeah'));
+console.log(document.getElementsByTagName('button')[0]);
