@@ -30,3 +30,16 @@ const test = (arg) => {
 };
 
 test(4);
+
+
+// object
+const unko2 = {
+  color: 'pink',
+  size: 'large',
+  purfume: 'mint',
+  goToilet: () => {
+    console.log('hello');
+  }
+};
+
+console.log(window.alert('yeah'));
