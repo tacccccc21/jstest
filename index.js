@@ -42,4 +42,6 @@ const unko2 = {
   }
 };
 
-console.log(document.getElementsByTagName('button')[0]);
+console.log(document.getElementsByTagName('button')[0].addEventListener('click', ()=> {
+  window.alert('yeah ha');
+}));
