@@ -4,8 +4,13 @@ let haruhi = 'Hello World!';
 
 const kyon = 'lsllslslsls';
 
-let inoki = ['1','2','3']
+let inoki = ['1fd','2fd','3fd']
 
 console.log(inoki[0]);
 
+  // let index = 0;
+  // while(index < inoki.length){
+  //   console.log(inoki[index]);
+  //   index++;
+  // }
 
