@@ -13,6 +13,14 @@ $button[1].textContent = answers[1];
 $button[2].textContent = answers[2];
 $button[3].textContent = answers[3];
 
+let buttonIndex = 0;
+let buttonLength = $button.length;
+while(buttonIndex < $button.length){
+  $button[buttonIndex].textContent = answers[buttonIndex];
+  buttonLength++;
+}
+
+//正誤判定
 $button[0].addEventListener('click', ()=>{
   if(correct === $button[0].textContent){
   window.alert('正解！')
