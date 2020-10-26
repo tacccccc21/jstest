@@ -25,7 +25,7 @@ $button[1].addEventListener('click', ()=>{
   if(correct === $button[1].textContent){
   window.alert('正解！')
   }else{
-  window.alert('不正解！');
+  window.alert('残念！');
   }
 });
 
