@@ -19,10 +19,24 @@ const quiz = [
   }, 
   
   {
-    question: 'ハルヒ一期のエンディングは',
-    answers: ['はれはれゆかい','止まれ','スパドラ','あああ'],
-    correct: 'はれはれゆかい'
+    question: 'アニメ涼宮ハルヒ一期のエンディングは？',
+    answers: ['ハレ晴レユカイ','止まれ','super driver','あああ'],
+    correct: 'ハレ晴レユカイ'
+  },
+
+  {
+    question: '偽SOS団の一員は誰キャラクターは誰',
+    answers: ['榎本','橘','荒川','中河'],
+    correct: '橘'
+  },
+
+  {
+    question: '偽SOS団の一員は誰キャラクターは誰',
+    answers: ['榎本','橘','荒川','中河'],
+    correct: '橘'
   }
+
+
 ];
 
 const quizLength = quiz.length;
